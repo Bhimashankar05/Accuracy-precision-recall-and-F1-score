@@ -1,0 +1,1 @@
+Accuracy, precision, recall, and F1-score are commonly used performance metrics to evaluate the effectiveness of a classification model. These metrics provide insights into different aspects of the model’s performance in predicting class labels.
